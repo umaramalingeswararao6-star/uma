@@ -10,7 +10,7 @@ import {
 } from './types';
 import { Sidebar } from './components/Sidebar';
 import { Header } from './components/Header';
-import { DashboardTab } from './tabs/DashboardTab';
+import DashboardTab from "./DashboardTab";
 import { PredictionTab } from './tabs/PredictionTab';
 import { InventoryTab } from './tabs/InventoryTab';
 import { SurplusAlertsTab } from './tabs/SurplusAlertsTab';
